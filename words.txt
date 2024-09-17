@@ -6,8 +6,5 @@ snow
 red
 blue
 turtle
-
+house
 flower
-
-:wq
-
